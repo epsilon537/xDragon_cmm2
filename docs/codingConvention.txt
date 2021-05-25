@@ -1,0 +1,57 @@
+*
+OPTION EXPLICIT
+OPTION DEFAULT NONE
+OPTION BASE 0
+
+* External/Public functions and subs:
+
+<Module name abbreviation with at least leading character capitalized>_camelCase.
+
+Example: DM_drawString, ObjList_find
+
+* External/Public variables:
+
+<Module name abbreviation in lower case>_camelCase.
+
+Example: dm_shakeDuration%
+
+* External/Public constants:
+<Module name abbrevation in CAPS>_<Constant name in CAPS>
+
+Example: DM_DISPLAY_PAGE_ID_MAIN%
+
+* Private functions and subs:
+
+_<Module name abbreviation with at least leading character capitalized>_camelCase.
+
+Example: _TE_getVal$
+
+* Private variables:
+
+_<Module name abbreviation in lower case>_camelCase.
+
+Example: _te_mapXmsk%
+
+* Private constants:
+
+_<Module name abbreviation in CAPS>_<Constant name in CAPS>
+
+Example: _TE_TABLE_MAX_MAP_WIDTH%
+
+* Locals:
+
+camelCase
+
+Example: nextRow%
+
+* Short names for parameters/arguments and locals as much as possible.
+
+Example: ww% instead of width%
+
+* Avoid single letter variables.
+
+Example: ww% instead of w%
+
+* Relax, it's just a coding convention.
+
+

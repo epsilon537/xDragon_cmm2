@@ -1,0 +1,14 @@
+
+Used resources:
+
+* ResourceManager.inc uses file id #1
+
+* Following CFuncRam indices 0-16 are used by various CSUBs
+
+* Nunchuk/I2C channel 3
+
+* Page IDs 0-3
+
+
+
+
