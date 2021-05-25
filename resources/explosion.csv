@@ -1,0 +1,6 @@
+"Delay(1/60)","File Name","X","Y","Width","Height"
+"5","spritesheet.bmp","0","32","26","26"
+"5","spritesheet.bmp","26","32","0","26"
+"5","spritesheet.bmp","52","32","-26","26"
+"5","spritesheet.bmp","78","32","-52","26"
+"5","spritesheet.bmp","104","32","-78","26"
